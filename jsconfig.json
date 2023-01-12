@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@/*":["src/*"]
+        },
+        "allowSyntheticDefaultImports": true, 
+        "module": "ES2015",
+        "jsx": "preserve"
+    }, 
+}
